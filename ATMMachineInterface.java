@@ -1,4 +1,4 @@
-
+package InternshipCodsoftTask;
 import java.util.Scanner;
 
 class ATMMachine {
